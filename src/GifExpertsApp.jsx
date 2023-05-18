@@ -13,7 +13,9 @@ export function GifExpertApp(){
 
     return (
       <>
-        <h1>GifExpertApp</h1>
+        <a href="/" className="link">
+          <h1>GifExpertApp</h1>
+        </a>
 
         <AddCategory 
           onNewCategory={ (val) => onAddCategory(val)}

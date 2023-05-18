@@ -2,6 +2,10 @@
     font-family: Helvetica, Arial, sans-serif;
     background-color: rgb(234, 234, 234);
   }
+  a.link{
+    text-decoration: none;
+    color: black;
+  }
   
   body {
     padding: 60px;
