@@ -13,7 +13,7 @@ export function GifExpertApp(){
 
     return (
       <>
-        <a href="/" className="link">
+        <a href="/gifxpert-app/" className="link">
           <h1>GifExpertApp</h1>
         </a>
 
